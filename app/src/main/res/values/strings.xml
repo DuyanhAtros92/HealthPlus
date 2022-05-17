@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Plus</string>
+    <string name="web_client_id" translatable="false">518978798637-phae50appt19p29qkhuam6n9k0nco7fu.apps.googleusercontent.com</string>
+<!--        <string name="web_client_id">973727849377-v99s212lf4k8m19g6v2aicn44sebllo4.apps.googleusercontent.com</string>-->
+</resources>
